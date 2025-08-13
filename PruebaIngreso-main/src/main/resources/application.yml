@@ -1,0 +1,7 @@
+---
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: "validate"
+  application:
+    name: "subasta_manager"
